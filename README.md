@@ -593,6 +593,20 @@ http://localhost:8501
 
 ---
 
+## 🌐 Deployment Separation 
+
+The Streamlit dashboard is deployed on Streamlit Community Cloud, while the FastAPI backend is deployed separately on Render.
+
+```text
+Streamlit Cloud
+      │
+      │ HTTPS / REST API
+      ▼
+Render — FastAPI
+```
+
+---
+
 # 👨‍💻 Author
 
 **Arman Shikalgar**
