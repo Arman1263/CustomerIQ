@@ -16,7 +16,7 @@
 
 ### Streamlit Dashboard
 
-**[Open CustomerIQ →](STREAMLIT_APP_URL)**
+**[Open CustomerIQ →](https://customeriq-by-arman.streamlit.app/)**
 
 > Replace `STREAMLIT_APP_URL` with the final Streamlit Community Cloud URL.
 
@@ -40,19 +40,19 @@ The deployed dashboard provides:
 
 ### Business Overview
 
-![CustomerIQ Overview](images/overview.png)
+![CustomerIQ Overview](imgs/1.png)
 
 ### Customer Intelligence
 
-![Customer Intelligence](images/customer-intelligence.png)
+![Customer Intelligence](imgs/2.png)
 
 ### Anomaly Detection
 
-![Anomaly Detection](images/anomalies.png)
+![Anomaly Detection](imgs/3.png)
 
 ### ML Visualization
 
-![PCA and UMAP](images/ml-visualization.png)
+![PCA and UMAP](imgs/4.png)
 
 ---
 
@@ -613,7 +613,7 @@ Render — FastAPI
 
 Final Year B.Tech — Artificial Intelligence & Data Science
 
-GitHub: [@armanshikalgar](https://github.com/armanshikalgar)
+GitHub: [@armanshikalgar](https://github.com/Arman1263)
 
 ---
 
