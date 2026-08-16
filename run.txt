@@ -1,0 +1,9 @@
+Now run both services
+
+Terminal 1:
+
+uvicorn api.main:app --reload
+
+Terminal 2:
+
+streamlit run app/streamlit_app.py
